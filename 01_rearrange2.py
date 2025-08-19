@@ -6,3 +6,4 @@ def rearrange_name(name):
 		return result
 	return "{} {}".format(result[2], result[1])
 
+print('one edit made')
